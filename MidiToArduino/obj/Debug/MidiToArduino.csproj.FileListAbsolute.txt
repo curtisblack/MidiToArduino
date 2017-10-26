@@ -1,0 +1,7 @@
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\bin\Debug\MidiToArduino.exe.config
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\bin\Debug\MidiToArduino.exe
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\bin\Debug\MidiToArduino.pdb
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\obj\Debug\MidiToArduino.csprojResolveAssemblyReference.cache
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\obj\Debug\MidiToArduino.csproj.CoreCompileInputs.cache
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\obj\Debug\MidiToArduino.exe
+c:\users\curtis\documents\visual studio 2017\Projects\MidiToArduino\MidiToArduino\obj\Debug\MidiToArduino.pdb
